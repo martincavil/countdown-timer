@@ -1,2 +1,2 @@
 # countdown-timer
-Javascript challenge to improve my skills
+Javascript challenge to improve my skills.
