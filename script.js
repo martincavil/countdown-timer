@@ -29,8 +29,7 @@ function countdown() {
   minsElement.innerHTML = mins;
   secondsElement.innerHTML = seconds;
 
-
-  // console.log(days, hours, mins, seconds);
+  // consoe.log(days, hours, mins, seconds);
 }
 
 countdown();
